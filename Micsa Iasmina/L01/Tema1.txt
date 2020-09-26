@@ -1,0 +1,44 @@
+Aplicatia StackOverflow este un site web destinat intrebarilor cat si raspunsurilor din domeniul programarii.Aceasta aplicatie este destinata atat profesionistilor ,cat si amatorilor sau celor care au un proiect la scoala sau facultate.
+Totodata,aceasta reprezinta o sursa de inspiratie la nivel global ,avand multe tipuri de functionalitati ce difera ca si complexitate sau nivel de utilizare.
+
+Ca o mica descriere:
+      
+     -Modul Enterprise -> destinat companiilor,ajutand participantii dintr-o echipa sa comunice si stocand informatiile intr-un cloud unde alte persoane nu au acces
+     -Modul Basic -> utilizat pentru a pune intrebari in legatura cu anumite probleme ,cele mai multe fiind de coding
+
+     -Headerul care contine -> Home :interfata afisata in momentul accesarii
+                            -> Public:este destinata atat intrebarilor cat si raspunsurilor venite de la devoleperi si alte persoane 
+                            -> Find a job: aceasta sectiune este destinata ofertelor ce se gasesc in momentul actual pe piata muncii
+                            -> Teams:sectiune destinata echipelor pentru a putea comunica eficient intr-un cadru restrans in care nu pot avea acces alte persoane 
+
+
+              Link-urile de ->About:ofera detalii despre aplicatie si echipa
+                            ->Products:indrumarea catre mediul public al aplicatiei,mediul privat pentru echipe etc.
+                            ->For Teams:pune la dispozitie pachete diferite pentru modul de utilizare al unei companii
+
+             Buton de Log In:posibilitatea de log in cu un cont existent sau cu ajutorul unor altor conturi cum ar Google/Git/Facebook
+             Buton de Sign up:posibilitatea de inregistrare printr-un form care permite crearea unui cont nou
+
+
+     - Pagina cea mai populata este cea de intrebari,aceasta continand :
+                   ->Prima parte prezinta optiunile descrise in meniul de mai sus,a doua parte are in prim plan intrebarile,fiecare avand langa informatii legate de voturile oferite,numarul de raspunsuri, cat si numarul de vizualizari alea acelei intrebari.
+                     In partea dreapta observam informatii despre blog,oferte de job,tag-uri destinata celor mai cautate intrebari in momentul actual.Accesarea unei intrebari ne ofera acelasi tip de interfata ca cea prezentata mai sus, diferenta fiind sectiunea centrala, unde se pot observa 
+                     raspunsurile oferite. Sub sectiunea de raspunsuri, utilizatorul beneficiaza de un form in care poate oferi un raspuns, avand posibilitatea de a posta raspunsul ca utilizator inregistrat sau in anonimat.
+
+
+ Functionalitati StackOverflow:
+
+      1.Se pot edita intrebarile si raspunsurile ,astfel daca este nevoie se pot imbunatatii pentru a primi sau oferi informatii cat mai clare;
+      2.Se pot debloca ecusoane pentru realizari speciale care se castiga pentru participarea pe site;
+      3.Rapunsurile pot primi voturi,iar cele mai bune raspunsuri ajung printre primele,fiind usor de gasit; 
+      4.Se poate aplica la un job oferit in cadrul companiei lor;
+      5.Se poate vizualiza istoricul unei postari;
+      6.Ofera o baza de date unde sunt stocati toti cei care au cont; 
+      7.Nu se axeaza pe un singur limbaj de programare;
+      8.Gasim si un podcast,iar diferitele informatii le putem asculta prin flux rss,Spotify etc.;
+      9.Exista posibilitatea de a gasi cele mai bune companii ("Companies");
+      10.Utilizatorul poate sa caute printr-un searchbox intrebari despre subiectul pe care il intereseaza;
+      11.Exista optiunea de follow pentru o intrebare,iar cei care o activeaza ,vor primi notificare in momentul in care se adauga raspunsuri la intrebarea respectiva; 
+      12.Exista optiunea de calculator de salariu,in functie de regiuni,nivel de educatie si experienta.
+                              
+
