@@ -8,7 +8,7 @@ namespace Test.App
 {
     class ProgramQuestion
     {
-        static void Main2(string[] args)
+        static void Main(string[] args)
         {
             List<string> tags = new List<string> {"CSS3", "SCSS"};
             var cmd = new PostQuestionCmd("How can we change bullet styling for an unordered list element?", "Can somebody give me a concrete example?", tags);
